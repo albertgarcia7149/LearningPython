@@ -1,0 +1,2 @@
+# LearninpPython
+Notes on python
