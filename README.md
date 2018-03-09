@@ -10,3 +10,5 @@ All my notes on Python
 **Lists** - Declaration, Accessing Elements, 2D Lists, Negative Indices, Sublists, Length of a List, Changing List Items, Adding Two Lists, Deleting Item From a List, In and Not In Operators, Multiple Assignment, Multiple Assignment Variable Swapping, Finding a Value in a List, Appending, Inserting and Deleting, Sorting, List to String, Tuple, Copy and DeepCopy.
 
 **Strings** - String Double Quotes, Escape Characters, Raw Strings, Multiline Strings, Indexing and Slicing Strings, In and Not In Operators, Upper(), Lower(), Capitalize(), IsUpper(), IsLower(), IsTitle(), StartsWith() and EndsWith(), Join() and Split(), Justifying Test RJust(), LJust(), Center(), Strip(), RStrip(), LStrip().
+
+**Pyperclip** - Copying and Pasting Strings.
