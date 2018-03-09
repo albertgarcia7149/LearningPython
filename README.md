@@ -6,3 +6,5 @@ All my notes on Python
 **Functions** - Basic Functions, None, Keyword Arguments, Global Variables.
 
 **Exceptions** - Exception Handling.
+
+**Lists** - Declaration, Accessing Elements, 2D Lists, Negative Indices, Sublists, Length of a List, Changing List Items, Adding Two Lists, Deleting Item From a List, In and Not In Operators, Multiple Assignment, Multiple Assignment Variable Swapping, Finding a Value in a List, Appending, Inserting and Deleting, Sorting, List to String, Tuple, Copy and DeepCopy.
