@@ -12,3 +12,5 @@ All my notes on Python
 **Strings** - String Double Quotes, Escape Characters, Raw Strings, Multiline Strings, Indexing and Slicing Strings, In and Not In Operators, Upper(), Lower(), Capitalize(), IsUpper(), IsLower(), IsTitle(), StartsWith() and EndsWith(), Join() and Split(), Justifying Test RJust(), LJust(), Center(), Strip(), RStrip(), LStrip().
 
 **Pyperclip** - Copying and Pasting Strings.
+
+**Regular Expressions** - Using Regular Expressions to Find Patterns of Text, Matching Groups with the Pipe, Optional Matching with Question Mark, Matching One or More with the Plus, Matching Specific Repetitions with Curly Brackets, FindAll() Method, Character Classes, Custom Character Classes, Caret and Dollar Sign Characters, Wildcard Character, Match everything with Dot-Star, Matching Newlines with Dot Character, Regex Symbols, Case-Insensitive Matching, Substituting Strings with the Sub() Method, Managing Complex Regexes.
