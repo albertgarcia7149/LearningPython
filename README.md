@@ -18,3 +18,7 @@ All my notes on Python
 **Files and Directories** - (Modules - os, shelve, pprint, shutil, send2trash and zipfile) Cross OS Path Creation, Current Working Directory, Absolute Vs. Relative Paths, Make new Folder, Handling Absolute and Relative Paths, Finding File Sizes and Folder Contents, Checking Path Validity, File Reading/Writing Process, Opening a file with Open(), Reading the Contents of Files, Writing to Files, Saving Variables with the Shelve Module, Saving Variables with the Pprint.Pformat() Function, The Shutil Module, Moving and Renaming Files and Folders, Permanently Deleting Files and Folders, Safe Deletes with the Send2Trach Module, Walking a Directory Tree,Compressing Files with the ZipFile Module, Creating and Adding to Zip Files.
 
 **Exceptions, Tracebacks, Assertions and Logging** - (Modules - traceback, logging) Raising Exceptions, Getting the Traceback as a String, Assertions, Disabling Assertions, Using the Logging Module, Logging Level, Disabling Logging, Logging to a File. 
+
+**Unicode** - Unicode.
+
+**Web Scraping** - (Modules - webbrowser, requests, bs4, selenium) Webbrowser, Request, HTML Resources, Viewing the Source HTML of a webpage and Opening Browser Deleloper's Tools, Using the Developer Tools to Find HTML Elements, Parsing HTML with the Beautiful Soup Module, Finding an Element with the Select() Method, Getting Data from an Element's Attributes, Selenium-Controlled Browser, Finding Elements on the Page, Clicking the page, Filling Out and Submitting Form, Sending Special Keys.
